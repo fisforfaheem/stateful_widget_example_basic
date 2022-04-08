@@ -1,6 +1,4 @@
-# stateful_widget_example_basic
-
-A new Flutter project.
+# A simple + - Clear example using setState in flutter
 
 ## Getting Started
 
